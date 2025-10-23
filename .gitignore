@@ -1,0 +1,7 @@
+node_modules/
+build/
+artifact.tar.gz
+coverage/
+.env
+.DS_Store
+
